@@ -1,4 +1,4 @@
-; Workshop N4
+//  Workshop N4
 // 1. 2 წამში დაბეჭდოს "გამარჯობა"
 function sayHello() {
   setTimeout(() => {
